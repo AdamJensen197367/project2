@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 dawdwadwadw
 dawdwadwadwad
 wadwadwadwadwadawdaw
@@ -6,3 +7,9 @@ d
 =======
 dawdwadwad
 >>>>>>> 29a897f (6 commit)
+=======
+dawdwadwad
+wadwadwadwadwadawdwad
+aw
+dawdwadwadd
+>>>>>>> d807bfd (7 commit)
