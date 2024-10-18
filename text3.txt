@@ -1,5 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 wadwadwadwadwadawd
 =======
 wadawdwadw
 >>>>>>> hotfix
+=======
+wadwadwadwadwadawd
+dawdwadwadwwa
+dawdwadwadwd
+>>>>>>> branch2
